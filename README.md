@@ -7,9 +7,6 @@
 </a>
 </p>
 
-#### You can also find all 55 answers here 👉 [Devinterview.io - Apache Spark](https://devinterview.io/questions/machine-learning-and-data-science/apache-spark-interview-questions)
-
-<br>
 
 ## 1. What is _Apache Spark_ and what are its main components?
 
